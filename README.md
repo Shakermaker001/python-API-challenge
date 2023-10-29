@@ -17,4 +17,4 @@ This is the repository for Ben Bagby's Module 6 Challenge
 
   Note: 
    - The temperature criteria was widened due to lack of returned data
-   - api.keys.py was accidentally pushed without .gitignore due to spelling error
+   - api_keys.py was accidentally pushed without .gitignore due to spelling error
