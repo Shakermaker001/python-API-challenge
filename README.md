@@ -12,4 +12,7 @@ This is the repository for Ben Bagby's Module 6 Challenge
   -A for loop is constructed to make an API request based off of the ideal criteria to find the nearest hotel in queried city
   -The hotels are added to the ideal dataframe and plotted on a map
 
+  cities_csv
+    - Random city data is stored in this csv file
+
   Note: The temperature criteria was wided due to lack of returned data
