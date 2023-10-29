@@ -15,4 +15,6 @@ This is the repository for Ben Bagby's Module 6 Challenge
   cities_csv
     - Random city data is stored in this csv file
 
-  Note: The temperature criteria was wided due to lack of returned data
+  Note: 
+   - The temperature criteria was wided due to lack of returned data
+   - api.keys.py was accidentally pushed without .gitignore due to spelling error
